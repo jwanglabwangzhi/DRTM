@@ -13,3 +13,4 @@ This part combines the first two steps with the Peak file and expressed intergen
 ![3.png](./readme_images/3.png)
 ![4.png](./readme_images/4.png)
 Thank you for your use, you can achieve interesting features with different combination . DRTM was developed in Jwang's lab . 
+If something get wrong ,please contact me .Email address:szxszx@foxmail.com
