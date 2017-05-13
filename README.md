@@ -12,5 +12,5 @@ Press the interface intergenetic miRNA button to jump to a new interface , load 
 This part combines the first two steps with the Peak file and expressed intergenetic miRNA file, load the file with Peak suffix, press the RUN button, the results will be stored in the software directory . We suggest using macs developed by TaoLiu to get your Peaks will get better TSS results for miRNAS. (please download hg19.fa genome and put it into 'pre_loaded_file' folder.）
 ![3.png](./readme_images/3.png)
 ![4.png](./readme_images/4.png)
-Thank you for your use, you can achieve interesting features with different combination . DRTM was developed in Jwang's lab . 
+Thank you for your use, you can achieve interesting features with different combination . DRTM was developed in Jwang's lab. 
 If something get wrong ,please contact me .Email address:szxszx@foxmail.com
